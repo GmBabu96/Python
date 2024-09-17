@@ -1,0 +1,6 @@
+print('hello world')
+
+print('this is our first python code')
+print('how can we print output')
+
+print('*'20)
